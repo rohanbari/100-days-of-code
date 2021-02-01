@@ -1,6 +1,6 @@
 # #100DaysOfCode Log
 
-### Day 0: February 1, 2020
+### Day 0: February 1, 2020 (not counted)
 
 **Today's Progress:** Participated the `#100DaysOfCode` challenge and configured my
 [repository](https://github.com/rohanbari/100DaysOfCode).
@@ -10,3 +10,17 @@
 **Link to work:**
 
   * [100DaysOfCode by Rohan in GitHub](https://github.com/rohanbari/100DaysOfCode)
+
+---
+
+### Day 1: February 1, 2020
+
+**Today's Progress:** Learned about stacks and heaps, and developed a program to demonstrate
+how to find differences between them by just viewing their declaration style.
+
+**Thoughts:** I had always some kind of confusion between stacks and heaps. It's my first day in
+#100DaysOfCode, feeling pride in myself! I'm curious for the future.
+
+**Link to work:**
+
+  * [Declaration of stacks vs. heaps](https://github.com/rohanbari/100DaysOfCode/blob/master/src/001/stack_heap.c)
