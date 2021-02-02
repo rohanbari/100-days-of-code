@@ -30,14 +30,19 @@ how to find differences between them by just viewing their declaration style.
 
 ---
 
+
 ### Day 2: February 2, 2020
 
 **Today's Progress:**
 
   1. Learned about various types of overflows, identifying their possible occurences and how to prevent them.
+  2. I made an efficient and feasible program that measures the usage of each alphabetical letter, alongside its
+  overall usage percentage.
 
 **Thoughts:** Still, I'm feeling alike an efficient programmer. But, more curious to explore C in depth than ever.
+Debugging in mind without using an actual debugger has become easier for me.
 
 **Links to work:**
 
   * [Demonstration of various flavors of overflows](https://github.com/rohanbari/100DaysOfCode/blob/master/src/002/overflow.c)
+  * [Alphabetic letter frequency analyzer system](https://github.com/rohanbari/100DaysOfCode/blob/master/src/002/letter_frequency_analyzer.c)
