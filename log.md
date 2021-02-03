@@ -46,3 +46,18 @@ Debugging in mind without using an actual debugger has become easier for me.
 
   * [Demonstration of various flavors of overflows](https://github.com/rohanbari/100DaysOfCode/blob/master/src/002/overflow.c)
   * [Alphabetic letter frequency analyzer system](https://github.com/rohanbari/100DaysOfCode/blob/master/src/002/letter_frequency_analyzer.c)
+
+
+---
+
+
+### Day 3: February 3, 2020
+
+**Today's Progress:** Understood about `va_start()`, `va_list()`, `va_end()`, i.e. passing variable number of
+arguments to a function/subroutine and utilize them efficiently. Coded a program to demonstrate this further effectively.
+
+**Thoughts:** My technical tone while speaking has become a bit more perfect. I'm just pride of myself.
+
+**Links to work:**
+
+  * [Passing variable number of char* arguments and string concatenation](https://github.com/rohanbari/100DaysOfCode/blob/master/src/003/var_args.c)
