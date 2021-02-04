@@ -73,9 +73,12 @@ arguments to a function/subroutine and utilize them efficiently. Coded a program
   1. Demonstrated the benefits of using structs, especially when multiple fields need to be passed into a single argument.
   In the same way, multiple structs can be passed into a single argument via pointers, like an array but reallocate-ably by
   developing a simple robust-coded calculator program.
+  
+  2. Developed a program to illustrate the usage of two-dimensional array as a simple mathematical matrix.
 
 **Thoughts:** Feeling like more dedicated than previous days and encouraged a lot to learn.
 
 **Links to work:**
 
   * [Passing and manipulating structs through arguments and pointers](https://github.com/rohanbari/100DaysOfCode/blob/master/src/004/manip_pointers.c)
+  * [Two dimensional array for square matrix](https://github.com/rohanbari/100DaysOfCode/blob/master/src/004/two_dim_matrix.c)
