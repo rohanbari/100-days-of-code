@@ -61,7 +61,6 @@ arguments to a function/subroutine and utilize them efficiently. Coded a program
 **Links to work:**
 
   * [Passing variable number of char* arguments and string concatenation](https://github.com/rohanbari/100DaysOfCode/blob/master/src/003/var_args.c)
-  * [Passing and manipulating structs through arguments and pointers](https://github.com/rohanbari/100DaysOfCode/blob/master/src/004/manip_pointers.c)
 
 
 ---
