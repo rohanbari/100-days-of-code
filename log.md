@@ -82,3 +82,18 @@ arguments to a function/subroutine and utilize them efficiently. Coded a program
 
   * [Passing and manipulating structs through arguments and pointers](https://github.com/rohanbari/100DaysOfCode/blob/master/src/004/manip_pointers.c)
   * [Two dimensional array for square matrix](https://github.com/rohanbari/100DaysOfCode/blob/master/src/004/two_dim_matrix.c)
+
+
+---
+
+### Day 5: February 5, 2020
+
+**Today's Progress:**
+
+  1. Created a program that summarizes and illustrates the most efficient methods of initializing the `char*` strings.
+
+**Thoughts:** Started to pretend and think like an ideal programmer.
+
+**Links to work:**
+
+  * [Various valid methods of initializing strings](https://github.com/rohanbari/100DaysOfCode/blob/master/src/005/valid_string_init.c)
