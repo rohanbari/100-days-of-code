@@ -86,6 +86,7 @@ arguments to a function/subroutine and utilize them efficiently. Coded a program
 
 ---
 
+
 ### Day 5: February 5, 2020
 
 **Today's Progress:**
@@ -97,3 +98,20 @@ arguments to a function/subroutine and utilize them efficiently. Coded a program
 **Links to work:**
 
   * [Various valid methods of initializing strings](https://github.com/rohanbari/100DaysOfCode/blob/master/src/005/valid_string_init.c)
+
+
+---
+
+
+### Day 5: February 5, 2020
+
+**Today's Progress:**
+
+  1. Developed a program that keeps iterating till the end of the `char *[]` and verifies conveniently if every
+  initial character in each string are equal.
+
+**Thoughts:** Equivalent feeling like that of DAY2 and DAY4 combined.
+
+**Links to work:**
+
+  * [Program to verify if each string in an array has same initial letters](https://github.com/rohanbari/100DaysOfCode/blob/master/src/006/initial_letters.c)
