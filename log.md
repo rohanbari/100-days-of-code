@@ -103,7 +103,7 @@ arguments to a function/subroutine and utilize them efficiently. Coded a program
 ---
 
 
-### Day 5: February 5, 2020
+### Day 6: February 6, 2020
 
 **Today's Progress:**
 
