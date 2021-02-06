@@ -89,9 +89,7 @@ arguments to a function/subroutine and utilize them efficiently. Coded a program
 
 ### Day 5: February 5, 2020
 
-**Today's Progress:**
-
-  1. Created a program that summarizes and illustrates the most efficient methods of initializing the `char*` strings.
+**Today's Progress:** Created a program that summarizes and illustrates the most efficient methods of initializing the `char*` strings.
 
 **Thoughts:** Started to pretend and think like an ideal programmer.
 
@@ -107,8 +105,8 @@ arguments to a function/subroutine and utilize them efficiently. Coded a program
 
 **Today's Progress:**
 
-  1. Developed a program that keeps iterating till the end of the `char *[]` and verifies conveniently if every
-  initial character in each string are equal.
+  1. Developed a program that iterates till the end of the `char *[]` and verifies conveniently if every initial character
+  in each string are equal.
   
   2. Coded a program to illustrate the practical application of various built-in mathematical methods.
 
