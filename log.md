@@ -116,3 +116,19 @@ arguments to a function/subroutine and utilize them efficiently. Coded a program
 
   * [Program to verify if each string in an array has same initial letters](https://github.com/rohanbari/100DaysOfCode/blob/master/src/006/initial_letters.c)
   * [Brief usage of math.h library](https://github.com/rohanbari/100DaysOfCode/blob/master/src/006/math_library.c)
+
+
+---
+
+
+### Day 7: February 7, 2020
+
+**Today's Progress:** I was really having trouble understanding the concept of multidimensional arrays. So, I
+learned its concepts and signified its overflow possibilities by experimenting with its sizes and the indirectly
+describing its capability to reduce the program complexity.
+
+**Thoughts:** Not feeling like yesterday, but I'm neutral. I had pretty much lack of time for coding today.
+
+**Links to work:**
+  
+  * [Experiments performing on multidimensional arrays](https://github.com/rohanbari/100DaysOfCode/blob/master/src/007/multi_dim_array.c)
