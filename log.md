@@ -132,3 +132,19 @@ describing its capability to reduce the program complexity.
 **Links to work:**
   
   * [Experiments performing on multidimensional arrays](https://github.com/rohanbari/100DaysOfCode/blob/master/src/007/multi_dim_array.c)
+  
+
+---
+
+
+### Day 8: February 8, 2020
+
+**Today's Progress:** I've created a program that can be used to demonstrate the symptoms of a recursive function,
+and their implementation in the code.
+
+**Thoughts:** I'm not feeling lesser than a standard programmer. Being ideal is like everything to me at this
+moment. I usually stay optimistic these days.
+
+**Links to work:**
+
+  * [Implementation of recursive function and the concept of recursion](https://github.com/rohanbari/100DaysOfCode/blob/master/src/008/recursion.c)
