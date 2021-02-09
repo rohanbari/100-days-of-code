@@ -148,3 +148,19 @@ moment. I usually stay optimistic these days.
 **Links to work:**
 
   * [Implementation of recursive function and the concept of recursion](https://github.com/rohanbari/100DaysOfCode/blob/master/src/008/recursion.c)
+
+
+---
+
+
+### Day 9: February 9, 2020
+
+**Today's Progress:** Designed an ideal text-mode editor that is based on the usage of program arguments
+to increase efficiency and understandability of code.
+
+**Thoughts:** I missed yesterday, but... the 9th day's still in count because I haven't slept yet. It's 12:26 AM,
+February 10th, I was busy a lot today. Anyway, I'm experiencing through professionalism now!
+
+**Links to work:**
+
+  * [Text-based text editor](https://github.com/rohanbari/100DaysOfCode/blob/master/src/009/text_editor.c)
