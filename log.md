@@ -1,6 +1,6 @@
 # #100DaysOfCode Log
 
-### Day 0: February 1, 2020 (not counted)
+### Day 0: February 1, 2021 (not counted)
 
 **Today's Progress:** Participated the `#100DaysOfCode` challenge and configured my
 [repository](https://github.com/rohanbari/100DaysOfCode).
@@ -15,7 +15,7 @@
 ---
 
 
-### Day 1: February 1, 2020
+### Day 1: February 1, 2021
 
 **Today's Progress:** Learned about stacks and heaps, and developed a program to demonstrate
 how to find differences between them by just viewing their declaration style.
@@ -31,7 +31,7 @@ how to find differences between them by just viewing their declaration style.
 ---
 
 
-### Day 2: February 2, 2020
+### Day 2: February 2, 2021
 
 **Today's Progress:**
 
@@ -51,7 +51,7 @@ Debugging in mind without using an actual debugger has become easier for me.
 ---
 
 
-### Day 3: February 3, 2020
+### Day 3: February 3, 2021
 
 **Today's Progress:** Understood about `va_start()`, `va_list()`, `va_end()`, i.e. passing variable number of
 arguments to a function/subroutine and utilize them efficiently. Coded a program to demonstrate this further effectively.
@@ -66,7 +66,7 @@ arguments to a function/subroutine and utilize them efficiently. Coded a program
 ---
 
 
-### Day 4: February 4, 2020
+### Day 4: February 4, 2021
 
 **Today's Progress:**
 
@@ -87,7 +87,7 @@ arguments to a function/subroutine and utilize them efficiently. Coded a program
 ---
 
 
-### Day 5: February 5, 2020
+### Day 5: February 5, 2021
 
 **Today's Progress:** Created a program that summarizes and illustrates the most efficient methods of initializing the `char*` strings.
 
@@ -101,7 +101,7 @@ arguments to a function/subroutine and utilize them efficiently. Coded a program
 ---
 
 
-### Day 6: February 6, 2020
+### Day 6: February 6, 2021
 
 **Today's Progress:**
 
@@ -121,7 +121,7 @@ arguments to a function/subroutine and utilize them efficiently. Coded a program
 ---
 
 
-### Day 7: February 7, 2020
+### Day 7: February 7, 2021
 
 **Today's Progress:** I was really having trouble understanding the concept of multidimensional arrays. So, I
 learned its concepts and signified its overflow possibilities by experimenting with its sizes and the indirectly
@@ -137,7 +137,7 @@ describing its capability to reduce the program complexity.
 ---
 
 
-### Day 8: February 8, 2020
+### Day 8: February 8, 2021
 
 **Today's Progress:** I've created a program that can be used to demonstrate the symptoms of a recursive function,
 and their implementation in the code.
@@ -153,7 +153,7 @@ moment. I usually stay optimistic these days.
 ---
 
 
-### Day 9: February 9, 2020
+### Day 9: February 9, 2021
 
 **Today's Progress:** Designed an ideal text-mode editor that is based on the usage of program arguments
 to increase efficiency and understandability of code.
@@ -164,3 +164,14 @@ February 10th, I was busy a lot today. Anyway, I'm experiencing through professi
 **Links to work:**
 
   * [Text-based text editor](https://github.com/rohanbari/100DaysOfCode/blob/master/src/009/text_editor.c)
+  
+### Day 10: February 10, 2021
+
+**Today's Progress:** Still learning the essentials of Data Structures and Algorithms. Completed the development
+of Employee Management System's v0.1 release.
+
+**Thoughts:** Neutral.
+
+**Links to work:**
+
+  * [Employee Management System v0.1](https://github.com/rohanbari/100DaysOfCode/blob/master/src/010/employee_manager.c)
