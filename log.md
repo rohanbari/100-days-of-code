@@ -164,7 +164,11 @@ February 10th, I was busy a lot today. Anyway, I'm experiencing through professi
 **Links to work:**
 
   * [Text-based text editor](https://github.com/rohanbari/100DaysOfCode/blob/master/src/009/text_editor.c)
-  
+
+
+---
+
+
 ### Day 10: February 10, 2021
 
 **Today's Progress:** Still learning the essentials of Data Structures and Algorithms. Completed the development
