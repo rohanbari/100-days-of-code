@@ -179,3 +179,18 @@ of Employee Management System's v0.1 release.
 **Links to work:**
 
   * [Employee Management System v0.1](https://github.com/rohanbari/100DaysOfCode/blob/master/src/010/employee_manager.c)
+
+
+---
+
+
+### Day 11: February 11, 2021
+
+**Today's Progress:** Still learning the data structure and algorithms. Developed a personifying Linux application
+to make the usage of Linux a more fun.
+
+**Thoughts:** Nicely done the coding, now I can debug the entire code in my mind.
+
+**Links to work:**
+
+  * [A nice wishing application to personify Linux](https://github.com/rohanbari/100DaysOfCode/blob/master/src/011/good.c)
