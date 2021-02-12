@@ -207,4 +207,4 @@ to make the usage of Linux a more fun.
 
 **Links to work:**
 
-  [Extraction of various datatypes from variadic inputted strings](https://github.com/rohanbari/100DaysOfCode/blob/master/src/012/format_spec.c)
+  * [Extraction of various datatypes from variadic inputted strings](https://github.com/rohanbari/100DaysOfCode/blob/master/src/012/format_spec.c)
