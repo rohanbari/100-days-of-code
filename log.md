@@ -201,10 +201,15 @@ to make the usage of Linux a more fun.
 
 ### Day 12: February 12, 2021
 
-**Today's Progress:** Learned how to dynamically resize a pointer.
+**Today's Progress:**
+
+  1. Learned how to dynamically resize a pointer.
+  2. Created an efficient and robust program that converts an integer (of type string when passed as an argument
+  via the command-line) into the numeric words, such as One Two Four.
 
 **Thoughts:** Nothing new, neutral.
 
 **Links to work:**
 
   * [Extraction of various datatypes from variadic inputted strings](https://github.com/rohanbari/100DaysOfCode/blob/master/src/012/format_spec.c)
+  * [Integer to Numeric Words Converter](https://github.com/rohanbari/100DaysOfCode/blob/master/src/012/int_to_words.c)
