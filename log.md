@@ -194,3 +194,17 @@ to make the usage of Linux a more fun.
 **Links to work:**
 
   * [A nice wishing application to personify Linux](https://github.com/rohanbari/100DaysOfCode/blob/master/src/011/good.c)
+
+
+---
+
+
+### Day 12: February 12, 2021
+
+**Today's Progress:** Learned how to dynamically resize a pointer.
+
+**Thoughts:** Nothing new, neutral.
+
+**Links to work:**
+
+  [Extraction of various datatypes from variadic inputted strings](https://github.com/rohanbari/100DaysOfCode/blob/master/src/012/format_spec.c)
