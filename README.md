@@ -1,5 +1,8 @@
 # I've joined the #100DaysOfCode Challenge
 
+**Note:** Discontinued logging day works here from Day 12. Because I already provide updates of my daily works
+in my [Twitter](https://twitter.com/_rohanbari).
+
 ## Contents
 
 * [Rules](rules.md)
